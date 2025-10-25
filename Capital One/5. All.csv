@@ -1,4 +1,4 @@
-Done,Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 [ * ]MEDIUM,Simple Bank System,100.0,0.6142935665806328,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
 [ * ]MEDIUM,Spiral Matrix,92.8,0.5393976057408939,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
 HARD,Block Placement Queries,92.0,0.168902023187088,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
